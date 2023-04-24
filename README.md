@@ -1,4 +1,4 @@
 # R6S-Database
-This program is made by MySQL and Java. 
+The program is a collaborative effort between MySQL and Java. It enables users to easily access basic information about the characters and weapons in the popular game Rainbow Six Siege.
 
-In this program, people could look up some basic pieces of information in a game called Rainbow Six Siege, like the character's basic information, like their story, what weapons they use, and where ate they belong. It also allows people to look up the weapon's information, like their special weapon and common weapon. 
+With this program, users can quickly look up a character's backstory, weapon usage, and affiliation, as well as information about the weapons themselves, such as their special abilities and common usage. The program provides a user-friendly interface that makes it easy to navigate and find the desired information quickly. Whether you are a fan of Rainbow Six Siege or simply interested in the game's mechanics, this program is an essential tool for anyone seeking to enhance their knowledge of the game.
